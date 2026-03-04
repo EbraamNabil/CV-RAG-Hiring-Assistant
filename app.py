@@ -209,7 +209,7 @@ if uploaded_files:
 
                     text = str(el).strip()
 
-                    # تجاهل العناصر الصغيرة جداً
+                    #ignore very short chunks which are unlikely to be informative
                     if len(text) < 40:
                         continue
 
