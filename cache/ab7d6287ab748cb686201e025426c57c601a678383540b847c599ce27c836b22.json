@@ -1,0 +1,81 @@
+{
+  "name": "Mahmoud Abdelghany",
+  "email": "mahmoud.a.rageh@gmail.com",
+  "phone": "01026567788",
+  "linkedin": "linkedin.com/in/mabghany",
+  "github": "github.com/MahmoudAdelbghany",
+  "location": "Ismailia, Egypt",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "B.Sc.",
+    "university": "Suez Canal University",
+    "major": "Computer and Control Engineering"
+  },
+  "skills": [
+    "Machine Learning & GenAI",
+    "PyTorch",
+    "TensorFlow/Keras",
+    "Scikit-Learn",
+    "CNNs (Computer Vision)",
+    "Hugging Face Transformers",
+    "LangChain",
+    "LangGraph Agents",
+    "Ollama",
+    "Local LLMs",
+    "RAG (Retrieval-Augmented Generation)",
+    "Prompt Engineering",
+    "SQL",
+    "SSIS",
+    "Data Warehouses",
+    "Data Pipelines",
+    "Docker",
+    "Git/GitHub",
+    "Linux",
+    "Python",
+    "C",
+    "C++",
+    "Bash",
+    "Lua"
+  ],
+  "projects": [
+    {
+      "name": "Post-Accident Intelligent Safety System",
+      "description": "Engineered a real-time edge-AI safety pipeline on Raspberry Pi and ESP32, integrating sensor fusion for immediate accident detection.",
+      "technologies": [
+        "Raspberry Pi 5",
+        "ESP32",
+        "Python",
+        "Embedded ML (SVM)",
+        "Computer Vision",
+        "NLP"
+      ],
+      "domain": "AI and Safety"
+    },
+    {
+      "name": "AI Competition Judgment Panel",
+      "description": "Architected an automated AI evaluation system using LangChain and Local LLMs to analyze and score competition entries against complex criteria.",
+      "technologies": [
+        "LangChain",
+        "Local LLMs (Ollama)",
+        "LangGraph",
+        "RAG",
+        "Python"
+      ],
+      "domain": "AI and Evaluation"
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "summary": "High-achieving Computer Engineering graduate with expertise in AI, NLP, and Data Engineering pipelines.",
+  "strengths": [
+    "Rapid adaptability",
+    "Strong technical foundations",
+    "Proven record of architecting autonomous agents and edge-AI solutions"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Data Engineer",
+    "DevOps Engineer"
+  ]
+}

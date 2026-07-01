@@ -1,0 +1,96 @@
+{
+  "name": "Abanoub Ibrahim Salah",
+  "email": "abanoubibrahim124@gmail.com",
+  "phone": "01270776350",
+  "linkedin": "https://www.linkedin.com/in/abanoub-ibrahim1111",
+  "github": "https://github.com/Abanoub1111",
+  "location": "",
+  "years_of_experience": 0,
+  "education": {
+    "degree": "Bachelor's Degree",
+    "university": "Helwan University",
+    "major": "Computer Science and Artificial Intelligence"
+  },
+  "skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "NLP",
+    "TensorFlow/Keras",
+    "RAG",
+    "CrewAi",
+    "LangChain",
+    "LangGraph",
+    "Agents",
+    "SQL",
+    "Git/GitHub",
+    "Power BI",
+    "Problem-Solving",
+    "Communication skills",
+    "Leadership skills",
+    "Team player"
+  ],
+  "projects": [
+    {
+      "name": "Intelligent Exercise Monitoring and Feedback System",
+      "description": "Developed a real-time exercise monitoring and feedback system using 3D joint data to recognize workouts, count repetitions, and assess exercise quality.",
+      "technologies": [
+        "TensorFlow",
+        "Mediapipe",
+        "OpenCV",
+        "Scikit-learn"
+      ],
+      "domain": "Health and Fitness"
+    },
+    {
+      "name": "Automated E-Commerce AI System",
+      "description": "Developed an AI-powered customer service chatbot for e-commerce, efficiently handling order management, product inquiries, and complaints.",
+      "technologies": [
+        "LangGraph",
+        "LangChain",
+        "Groq",
+        "SQLite",
+        "Sentence Transformers",
+        "Google APIs"
+      ],
+      "domain": "E-commerce"
+    },
+    {
+      "name": "KENKEN Puzzle Solvers – Genetic & Backtracking Algorithm",
+      "description": "Built a KENKEN puzzle solver using a genetic algorithm, leveraging evolutionary strategies to optimize solutions under arithmetic and uniqueness constraints.",
+      "technologies": [
+        "Python",
+        "Genetic Algorithms",
+        "Backtracking",
+        "Evolutionary Computation"
+      ],
+      "domain": "Puzzle Solving"
+    }
+  ],
+  "certifications": [
+    "Machine Learning and Data Science bootcamp",
+    "Deep Learning specialization",
+    "Agentic AI",
+    "Microsoft Power BI Desktop for Business Intelligence",
+    "Python Data Structures & Algorithms"
+  ],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "summary": "Computer Science graduate with hands-on experience in Data Science, Data Analysis, Machine Learning, Computer Vision and NLP. Skilled in developing AI-driven solutions and applying statistical and analytical techniques to real-world problems.",
+  "strengths": [
+    "Problem-Solving",
+    "Communication skills",
+    "Leadership skills",
+    "Team player"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Data Scientist",
+    "Machine Learning Engineer",
+    "Computer Vision Engineer",
+    "NLP Engineer"
+  ]
+}

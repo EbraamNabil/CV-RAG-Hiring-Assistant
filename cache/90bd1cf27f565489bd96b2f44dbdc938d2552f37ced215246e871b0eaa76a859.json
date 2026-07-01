@@ -1,0 +1,89 @@
+{
+  "name": "Hana Osama Abdellfatah",
+  "email": "hanaissa37@gmail.com",
+  "phone": "01001447089",
+  "linkedin": "",
+  "github": "",
+  "location": "6th of October City",
+  "years_of_experience": 0,
+  "education": {
+    "degree": "Bachelor of Computer Science",
+    "university": "Ahram Canadian University",
+    "major": "Computer Science"
+  },
+  "skills": [
+    "Python",
+    "SQL",
+    "Power BI",
+    "Excel",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "C++",
+    "Dart",
+    "Flutter",
+    "OOP",
+    "Data Structures & Algorithms",
+    "Machine Learning",
+    "Data Cleaning & Visualization",
+    "Teamwork & Collaboration",
+    "Communication Skills",
+    "Adaptability",
+    "Time Management",
+    "Problem Solving",
+    "Attention to Detail",
+    "Creativity",
+    "Fast Learner"
+  ],
+  "projects": [
+    {
+      "name": "NTI 4-Month Scholarship, Graduation Project",
+      "description": "AI-based assistant that translates Arabic text from images, detects prices, recognizes historical landmarks, and provides tourist information and nearby recommendations.",
+      "technologies": [
+        "Python",
+        "ML",
+        "DL",
+        "Applied AI concepts"
+      ],
+      "domain": "AI"
+    },
+    {
+      "name": "Shipping System Website",
+      "description": "Built a shipping management system with database functionality to handle orders, customer data, and shipment tracking.",
+      "technologies": [
+        "Database functionality",
+        "System logic",
+        "Backend integration"
+      ],
+      "domain": "Software Development"
+    },
+    {
+      "name": "Flutter Applications",
+      "description": "Developed multiple mobile applications using Flutter.",
+      "technologies": [
+        "Flutter"
+      ],
+      "domain": "Mobile Application Development"
+    }
+  ],
+  "certifications": [
+    "NTI Hire Ready Program (AI Track)",
+    "Data Analysis with Power BI",
+    "AI training program covering Python, ML, DL, and applied AI concepts under Huawei ICT standards"
+  ],
+  "languages": [
+    "English (B1)",
+    "Arabic"
+  ],
+  "summary": "Computer Science graduate with hands-on experience in AI, data analysis, and software development. Skilled in Python, SQL, and Power BI, with strong problem-solving abilities and a passion for applying data-driven solutions.",
+  "strengths": [
+    "Strong problem-solving abilities",
+    "Passion for applying data-driven solutions"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Data Engineer",
+    "Software Developer"
+  ]
+}

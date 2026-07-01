@@ -1,0 +1,89 @@
+{
+  "name": "Dana Ahmed",
+  "email": "dana.ahmed.fikry@gmail.com",
+  "phone": "01019517906",
+  "linkedin": "https://www.linkedin.com/in/dana-ahmed-297a71254",
+  "github": "https://github.com/danahmed1",
+  "location": "",
+  "years_of_experience": 0,
+  "education": {
+    "degree": "Bachelor of Computer Sciences",
+    "university": "Ain Shams University",
+    "major": "Computer Science"
+  },
+  "skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "Computer Vision",
+    "Data Structures & Algorithms",
+    "OOP",
+    "C++",
+    "C#",
+    "Python",
+    "Scala",
+    "Java",
+    "TensorFlow",
+    "Scikit-learn",
+    "Pandas",
+    "NumPy",
+    "SQL",
+    "PL/SQL",
+    "Oracle Database",
+    "Microsoft SQL Server",
+    "Power BI",
+    "Teamwork",
+    "Adaptability",
+    "Time Management",
+    "Attention to detail"
+  ],
+  "projects": [
+    {
+      "name": "NTI 4-Month Scholarship, Graduation Project",
+      "description": "AI-based assistant that translates Arabic text from images, detects prices, recognizes historical landmarks, and provides tourist information and nearby recommendations.",
+      "technologies": [
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Computer Vision"
+      ],
+      "domain": "AI"
+    },
+    {
+      "name": "Graduation Project, Soil Analysis and Early Detection of Plant Diseases",
+      "description": "Developed a system for early diagnosis of plant diseases, Predicted Soil types from input images and Soil properties from satellite imagery and generated crop recommendations based on soil health and texture analysis",
+      "technologies": [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision"
+      ],
+      "domain": "Agriculture"
+    },
+    {
+      "name": "Animals Classification",
+      "description": "Implemented a Transformer-based ViT neural network architecture from scratch to classify animals, focused on attention mechanisms and model optimization for better performance",
+      "technologies": [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision"
+      ],
+      "domain": "AI"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "summary": "Recent Computer Science graduate specializing in Artificial Intelligence and Machine Learning, with hands-on experience in Deep Learning, Natural Language Processing (NLP), and Computer Vision projects.",
+  "strengths": [
+    "Strong focus on developing practical, data-driven solutions",
+    "Passionate about applying AI techniques to solve real-world problems"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI/ML Engineer",
+    "Data Scientist",
+    "Computer Vision Engineer"
+  ]
+}

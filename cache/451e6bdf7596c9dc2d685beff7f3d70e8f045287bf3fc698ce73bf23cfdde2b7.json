@@ -1,0 +1,88 @@
+{
+  "name": "Mohamed Hegazy",
+  "email": "Mohamedhegazzy52@gmail.com",
+  "phone": "(+2) 0128 152 9555",
+  "linkedin": "linkedin.com/in/mohamed-hegazzy",
+  "github": "",
+  "location": "Giza, Egypt",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "Bachelor of Computer Science and Artificial intelligence",
+    "university": "Helwan University - Cairo",
+    "major": "Artificial Intelligence"
+  },
+  "skills": [
+    "Machine Learning & AI",
+    "Deep Learning",
+    "Large Language Models (LLMs)",
+    "Retrieval-Augmented Generation (RAG)",
+    "Model Training & Evaluation",
+    "Feature Engineering",
+    "Prompt Engineering",
+    "NLP Techniques",
+    "Generative AI & NLP Systems",
+    "Libraries, Frameworks & Tools",
+    "Data & Deployment",
+    "Soft Skills"
+  ],
+  "projects": [
+    {
+      "name": "AI-Powered Customer Service & Executive Analytics System",
+      "description": "Built an AI-powered customer support chatbot using multi-agent LLM workflows with RAG",
+      "technologies": [
+        "RAG",
+        "LangChain",
+        "Streamlit"
+      ],
+      "domain": "Customer Service"
+    },
+    {
+      "name": "IMDB Movie Review Sentiment Classification (BiLSTM)",
+      "description": "Built and trained a BiLSTM-based sentiment analysis model on the IMDB 50K reviews dataset",
+      "technologies": [
+        "BiLSTM",
+        "TensorFlow"
+      ],
+      "domain": "Sentiment Analysis"
+    },
+    {
+      "name": "Islamic Jurisprudence RAG System for Fasting Rulings (Ahkam Al-Siyam)",
+      "description": "Built an AI-driven Q&A system using LLMs and RAG",
+      "technologies": [
+        "LLMs",
+        "RAG",
+        "LangChain",
+        "HuggingFace models",
+        "ChromaDB"
+      ],
+      "domain": "Islamic Jurisprudence"
+    }
+  ],
+  "certifications": [
+    "HCIA-AI Certification V 4.0 — Huawei (2025)",
+    "Getting Started with Deep Learning — NVIDIA (2025)",
+    "Natural Language Processing Course — DataCamp (2025)",
+    "Machine Learning Certificate — DataCamp (2024)",
+    "Deep Learning Certificate — DataCamp (2024)",
+    "Generative AI (GAIC) Course — Sprints (2025)",
+    "Artificial Intelligence Course — HP Life (2024)"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "summary": "Results-driven Machine Learning and AI Engineer with hands-on experience in NLP, predictive modeling, and Transformer architectures.",
+  "strengths": [
+    "Analytical & Critical Thinking",
+    "Problem Solving",
+    "Attention to Details",
+    "Collaboration & Teamwork",
+    "Adaptability & Continuous Learning"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Data Scientist"
+  ]
+}

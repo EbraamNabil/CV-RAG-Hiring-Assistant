@@ -1,0 +1,75 @@
+{
+  "name": "Abdallah Awad",
+  "email": "abdallahawad244@gmail.com",
+  "phone": "+20 1027053188",
+  "linkedin": "linkedin.com/in/abdallah-awad-0b01632a4",
+  "github": "",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 0,
+  "education": {
+    "degree": "Bachelor of Computer Science and Artificial Intelligence",
+    "university": "Helwan University",
+    "major": "Computer Science"
+  },
+  "skills": [
+    "Python",
+    "OOP",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "Seaborn",
+    "OpenCV",
+    "C++",
+    "C",
+    "HTML",
+    "CSS",
+    "TensorFlow",
+    "Keras",
+    "Scikit-learn",
+    "PyTorch",
+    "CV",
+    "Transformers",
+    "NLP",
+    "spaCy",
+    "GenAI",
+    "LLMs",
+    "Lang Chain",
+    "Hugging Face",
+    "Fine-tuning"
+  ],
+  "projects": [
+    {
+      "name": "Inpainting Detection and Segmentation System",
+      "description": "Graduation Project",
+      "technologies": [
+        "Convolutional Neural Networks (CNNs)",
+        "Encoder–Decoder architecture (U-Net-style)",
+        "Residual blocks",
+        "Custom loss functions",
+        "Data augmentation"
+      ],
+      "domain": "Computer Vision"
+    },
+    {
+      "name": "AI Interview Project",
+      "description": "NTI Project",
+      "technologies": [
+        "AI-powered assistant",
+        "Natural Language Processing"
+      ],
+      "domain": "Natural Language Processing"
+    }
+  ],
+  "certifications": [
+    "Huawei Certified ICT Associate (HCIA) – Artificial Intelligence",
+    "NVIDIA Certificate intro to deep learning– Artificial Intelligence"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "summary": "AI Engineer with a Bachelor degree in Computer Science and Artificial Intelligence from Helwan University. Passionate about applying advanced machine learning and deep learning techniques to solve real-world challenges.",
+  "strengths": [],
+  "weaknesses": [],
+  "recommended_roles": []
+}

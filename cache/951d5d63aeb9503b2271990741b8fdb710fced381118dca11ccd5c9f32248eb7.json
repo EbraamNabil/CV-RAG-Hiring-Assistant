@@ -1,0 +1,68 @@
+{
+  "name": "Ahmed Nezar Abdelkader",
+  "email": "ahmednezar732@gmail.com",
+  "phone": "01147292955",
+  "linkedin": "www.linkedin.com/in/ahmednezar7",
+  "github": "",
+  "location": "",
+  "years_of_experience": 2,
+  "education": {
+    "degree": "B.Sc. in Computer Engineering",
+    "university": "Ain Shams University",
+    "major": "Data Science Specialization"
+  },
+  "skills": [
+    "Python",
+    "SQL",
+    "JavaScript",
+    "Generative AI",
+    "Machine Learning",
+    "NLP",
+    "Deep Learning",
+    "PyTorch",
+    "Pandas",
+    "Scikit-learn"
+  ],
+  "projects": [
+    {
+      "name": "Agentic Financial Analyst",
+      "description": "Engineered a robust multi-agent system using LangGraph to answer complex business questions",
+      "technologies": [
+        "LangGraph"
+      ],
+      "domain": "Finance"
+    },
+    {
+      "name": "Arabic-to-SQL Model",
+      "description": "Leveraged QLoRA to efficiently fine-tune an LLM for the Egyptian dialect",
+      "technologies": [
+        "QLoRA",
+        "LLM"
+      ],
+      "domain": "Natural Language Processing"
+    }
+  ],
+  "certifications": [
+    "AI & ML 4 Months Program",
+    "AI & Machine Learning Summer Camp",
+    "Machine Learning Specialization",
+    "Artificial Intelligence Training",
+    "Frontend Development Course",
+    "Microsoft Frontend Development Course"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "summary": "AI Engineer experienced in Machine Learning and modern AI System Design",
+  "strengths": [
+    "Optimizing system performance",
+    "Delivering innovative AI solutions"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Data Scientist"
+  ]
+}

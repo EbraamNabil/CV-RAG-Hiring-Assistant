@@ -1,0 +1,122 @@
+{
+  "name": "FADY ATIA",
+  "email": "fadyatia375@gmail.com",
+  "phone": "+20 127 073 3754",
+  "linkedin": "linkedin.com/in/fady-atia-09144520b",
+  "github": "github.com/Fady-Atia",
+  "location": "Giza, Egypt",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "B.Sc.",
+    "university": "Menoufia University",
+    "major": "Electronic Engineering (Computer Science & Engineering)"
+  },
+  "skills": [
+    "TensorFlow",
+    "Keras",
+    "Scikit-learn",
+    "PyTorch",
+    "CNN",
+    "ANN",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "FAISS",
+    "Supabase",
+    "ChromaDB",
+    "Diffusion Models",
+    "LLMs",
+    "Tableau",
+    "Power BI",
+    "Excel Dashboards",
+    "SQL",
+    "ETL",
+    "Data Visualization",
+    "Python",
+    "Java",
+    "C++",
+    "Git/GitHub",
+    "FastApi",
+    "Streamlit",
+    "OpenCV",
+    "n8n"
+  ],
+  "projects": [
+    {
+      "name": "Automatic E-Commerce AI System",
+      "description": "Developed a LangGraph-based AI agent to interact with customers, automatically handle orders and complaints, and store them in the database.",
+      "technologies": [
+        "LangGraph",
+        "Agentic RAG",
+        "SQL"
+      ],
+      "domain": "E-commerce"
+    },
+    {
+      "name": "AI-Powered WhatsApp Sales System",
+      "description": "Built a RAG-based automated system using LangChain and Gemma3 to handle sales inquiries.",
+      "technologies": [
+        "LangChain",
+        "Gemma3",
+        "n8n"
+      ],
+      "domain": "Sales"
+    },
+    {
+      "name": "AI-Based Plant Disease Detection & Treatment Recommendation Mobile APP",
+      "description": "Developed a deep learning model to detect plant diseases from leaf images and built a recommendation system to suggest suitable treatments.",
+      "technologies": [
+        "Deep Learning",
+        "RAG"
+      ],
+      "domain": "Agriculture"
+    },
+    {
+      "name": "Text-to-Image Generation Platform",
+      "description": "Implemented a diffusion-based model for generating high-quality images from text prompts.",
+      "technologies": [
+        "Diffusion Models",
+        "Streamlit"
+      ],
+      "domain": "Computer Vision"
+    },
+    {
+      "name": "Movie Sentiment Analysis",
+      "description": "Developed an NLP pipeline for IMDB 50k reviews.",
+      "technologies": [
+        "NLP",
+        "SpaCy",
+        "PyTorch"
+      ],
+      "domain": "Natural Language Processing"
+    },
+    {
+      "name": "Pneumonia Detection Using Deep Learning",
+      "description": "Built and trained a CNN model to classify chest X-ray images.",
+      "technologies": [
+        "Deep Learning",
+        "CNN"
+      ],
+      "domain": "Healthcare"
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "summary": "AI Engineer with hands-on experience in building LLM-based systems, Agentic workflows, and RAG applications.",
+  "strengths": [
+    "Leadership",
+    "Time Management",
+    "Analytical Thinking",
+    "Problem-solving",
+    "Teamwork",
+    "Critical Thinking",
+    "Adaptability"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Data Scientist",
+    "Business Intelligence Developer"
+  ]
+}

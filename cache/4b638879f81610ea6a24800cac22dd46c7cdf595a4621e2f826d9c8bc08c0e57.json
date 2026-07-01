@@ -1,0 +1,130 @@
+{
+  "name": "Radwa Elshahed",
+  "email": "radwaelshahed41@gmail.com",
+  "phone": "+20 1024014655",
+  "linkedin": "www.linkedin.com/in/radwasalah913",
+  "github": "https://github.com/Radwa-Salah913",
+  "location": "",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "Bachelor of Computer Science",
+    "university": "Benha University",
+    "major": "Artificial Intelligence"
+  },
+  "skills": [
+    "Python",
+    "C++",
+    "SQL",
+    "TensorFlow",
+    "Keras",
+    "PyTorch",
+    "LLMs",
+    "Hugging Face",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "Fine-Tunning",
+    "SkitLearn",
+    "Pandas",
+    "Numpy",
+    "Matplotlib",
+    "Plotly",
+    "PowerBI",
+    "Streamlit",
+    "FastAPI",
+    "Docker",
+    "Gradio",
+    "Github",
+    "Problem-Solving",
+    "Analytical Thinking",
+    "Teamwork",
+    "Leadership",
+    "Presentation",
+    "Research",
+    "Communication",
+    "Emotional intelligence",
+    "Adaptability"
+  ],
+  "projects": [
+    {
+      "name": "Recap & Review System",
+      "description": "LLM-powered multilingual session summarization tool",
+      "technologies": [
+        "DeepSeek",
+        "T5",
+        "BERT",
+        "Whisper"
+      ],
+      "domain": "Education"
+    },
+    {
+      "name": "Cheating Detection System",
+      "description": "Exam monitoring solution",
+      "technologies": [
+        "YOLO",
+        "MediaPipe",
+        "VGGFace2"
+      ],
+      "domain": "Education"
+    },
+    {
+      "name": "ATS Recommendation System",
+      "description": "Intelligent candidate–job matching",
+      "technologies": [
+        "LangChain",
+        "LangGraph",
+        "OpenAI models"
+      ],
+      "domain": "HR"
+    },
+    {
+      "name": "Fine-Tuning LLMs",
+      "description": "Adapted AraBERT to an Arabic dataset and fine-tuned DistilBERT for sentiment analysis",
+      "technologies": [
+        "AraBERT",
+        "DistilBERT"
+      ],
+      "domain": "NLP"
+    },
+    {
+      "name": "Breast Cancer Detection",
+      "description": "Random Forest diagnostic model",
+      "technologies": [
+        "Random Forest"
+      ],
+      "domain": "Healthcare"
+    },
+    {
+      "name": "IoT Network Attack Classification",
+      "description": "SVM-based multi-class classification model",
+      "technologies": [
+        "SVM",
+        "Streamlit",
+        "Power BI"
+      ],
+      "domain": "Cybersecurity"
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "summary": "AI Engineer with strong hands-on experience in ML, DL, CV, NLP, and LLMs, delivering end-to-end AI solutions.",
+  "strengths": [
+    "Problem-Solving",
+    "Analytical Thinking",
+    "Teamwork",
+    "Leadership",
+    "Presentation",
+    "Research",
+    "Communication",
+    "Emotional intelligence",
+    "Adaptability"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Data Scientist",
+    "Machine Learning Engineer",
+    "NLP Engineer",
+    "Computer Vision Engineer"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Fatma Mahmoud Badr",
+  "email": "fatmamahmoud63621@gmail.com",
+  "phone": "+201063273664",
+  "linkedin": "https://www.linkedin.com/in/fatma-mahmoud-166ab0250/",
+  "github": "https://github.com/FatmaMahmoudBadr",
+  "location": "Cairo",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "Bachelor’s degree",
+    "university": "Ain Shams University",
+    "major": "Scientific Computing"
+  },
+  "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
+    "SQL",
+    "OOP",
+    "Data Structures",
+    "Algorithms",
+    "k-NN",
+    "Naive Bayes",
+    "SVM",
+    "Decision Trees",
+    "Random Forest",
+    "Model Evaluation",
+    "Neural Networks",
+    "CNNs",
+    "RNNs",
+    "LSTMs",
+    "Keras",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "OpenCV",
+    "Jupyter Notebook",
+    "Flask APIs",
+    "Model Deployment",
+    "Computer Vision",
+    "NLP",
+    "OCR",
+    "RAG"
+  ],
+  "projects": [
+    {
+      "name": "AI Meeting Minutes & Knowledge RAG System",
+      "description": "Built an end-to-end AI system for video-based meeting analysis using dual pipelines.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "OpenCV",
+        "Jupyter Notebook"
+      ],
+      "domain": "Computer Vision"
+    },
+    {
+      "name": "Early Detection of Parkinson’s Disease Using Hand Drawing and Speech",
+      "description": "Designed a Python-based system integrating Flask backend and Flutter mobile frontend.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "Flutter",
+        "OpenCV",
+        "NumPy"
+      ],
+      "domain": "Healthcare"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "summary": "AI Engineer with hands-on experience in machine learning, deep learning, computer vision, and NLP.",
+  "strengths": [
+    "Building scalable, real-world AI systems",
+    "Contributing to innovative teams"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Computer Vision Engineer"
+  ]
+}

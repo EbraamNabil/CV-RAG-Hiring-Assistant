@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "email": "",
+  "phone": "",
+  "linkedin": "",
+  "github": "",
+  "location": "",
+  "years_of_experience": 0,
+  "education": {
+    "degree": "",
+    "university": "",
+    "major": ""
+  },
+  "skills": [],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "technologies": [],
+      "domain": ""
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "summary": "",
+  "strengths": [],
+  "weaknesses": [],
+  "recommended_roles": []
+}

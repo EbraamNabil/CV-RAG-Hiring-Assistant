@@ -1,0 +1,88 @@
+{
+  "name": "Sarah Youssef Thomas",
+  "email": "sarahyoussef132@gmail.com",
+  "phone": "+201207928318",
+  "linkedin": "https://www.linkedin.com/in/sarah-thomas-5b3080300",
+  "github": "https://github.com/sarahYThomas",
+  "location": "Egypt",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "Bachelor of Biotechnology",
+    "university": "Nile University",
+    "major": "Bioinformatics"
+  },
+  "skills": [
+    "AI/ML Frameworks",
+    "Python",
+    "R",
+    "PyTorch",
+    "TensorFlow",
+    "NLP",
+    "NLTK",
+    "Spacy",
+    "Linux",
+    "Shell",
+    "Git",
+    "Docker",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Power BI"
+  ],
+  "projects": [
+    {
+      "name": "Integrating Microbiome Profiling and In Silico Drug Discovery",
+      "description": "Developed and applied AI-driven analytical tools to analyze microbiome sequencing data from diabetic foot ulcers",
+      "technologies": [
+        "Python",
+        "R",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "domain": "Bioinformatics"
+    },
+    {
+      "name": "Machine Learning Model for Hypothyroid Disease Classification",
+      "description": "Developed and deployed a machine learning model to classify patients with hypothyroid disease",
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "Git",
+        "Streamlit"
+      ],
+      "domain": "Healthcare"
+    },
+    {
+      "name": "Computer-Aided Drug Discovery Project for Alzheimer's Treatment",
+      "description": "Led a drug repurposing study using pharmacophore modeling and molecular docking to identify FDA-approved drugs as potential treatments",
+      "technologies": [
+        "Python",
+        "Pharmacophore modeling",
+        "Molecular docking"
+      ],
+      "domain": "Pharmaceuticals"
+    }
+  ],
+  "certifications": [
+    "Getting Started with Deep Learning - NVIDIA Deep Learning Institute (DLI)",
+    "Bioinformatics Workshop",
+    "Machine Learning Models Development"
+  ],
+  "languages": [
+    "Arabic (Native)",
+    "English (Fluent)",
+    "German (Beginner)"
+  ],
+  "summary": "Highly motivated and detail-oriented bioinformatics graduate with expertise in computational biology, data analysis, and AI-driven solutions. Proficient in Python, R, and machine learning frameworks, with a strong competitive programming background.",
+  "strengths": [
+    "Effective communication",
+    "Problem-solving",
+    "Scientific research and writing"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "Data Scientist",
+    "Bioinformatics Analyst",
+    "Machine Learning Engineer"
+  ]
+}

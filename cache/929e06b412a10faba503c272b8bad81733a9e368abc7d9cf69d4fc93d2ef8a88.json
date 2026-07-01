@@ -1,0 +1,131 @@
+{
+  "name": "Ahmed Essam Hammam",
+  "email": "ahmedessamhamam@gmail.com",
+  "phone": "+201091908030",
+  "linkedin": "linkedin.com/in/ahmed-essam-a681a134b/",
+  "github": "github.com/Ahmed-Essam-Hammam",
+  "location": "Egypt",
+  "years_of_experience": 2,
+  "education": {
+    "degree": "Bachelor of Engineering",
+    "university": "Port Said University",
+    "major": "Communications and Electronics"
+  },
+  "skills": [
+    "Python",
+    "C#",
+    "Java",
+    "SQL",
+    "TensorFlow",
+    "Keras",
+    "PyTorch",
+    "scikit-learn",
+    "OpenCV",
+    "Pandas",
+    "Numpy",
+    "Matplotlib",
+    "Seaborn",
+    "XGBoost",
+    "LangChain",
+    "LangGraph",
+    "Git",
+    "VS Code",
+    "Jupyter Notebooks",
+    "Kaggle",
+    "Hugging Face",
+    "Gradio",
+    "Streamlit",
+    "Docker",
+    "Power BI",
+    "OOP",
+    "Algorithms & Data Structures",
+    "Networks",
+    "Databases",
+    "Microsoft Office Suite",
+    "NLP",
+    "Time-Series Analysis",
+    "Deep Learning",
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "prompt engineering",
+    "fine-tuning",
+    "computer vision",
+    "agents",
+    "Vector databases",
+    "Communication",
+    "Emotional Intelligence",
+    "Leadership",
+    "Teamwork",
+    "Problem-solving",
+    "Presentation skills",
+    "Creativity"
+  ],
+  "projects": [
+    {
+      "name": "AI Smart Meeting Assistant",
+      "description": "Built an end-to-end meeting analysis pipeline that processes recorded audio/video meetings using speaker diarization to identify and segment participants.",
+      "technologies": [
+        "LangGraph",
+        "RAG"
+      ],
+      "domain": "AI"
+    },
+    {
+      "name": "Personalized GPT-2 Chatbot with Persona-Aware Dialogue Generation",
+      "description": "Designed and developed a personalized AI chatbot capable of generating dynamic, context-aware responses using advanced NLP techniques.",
+      "technologies": [
+        "GPT-2",
+        "NLP"
+      ],
+      "domain": "NLP"
+    },
+    {
+      "name": "Finding donors for Charity",
+      "description": "Built a predictive model using 1994 U.S. Census data to determine whether individuals earn over $50K annually, leveraging 45,222 records to enhance donor targeting for a charity.",
+      "technologies": [
+        "Machine Learning"
+      ],
+      "domain": "Charity"
+    },
+    {
+      "name": "Smart Port Automation Project",
+      "description": "Architected a real-time container detection system using YOLO11 on NVIDIA Jetson Nano, achieving a mAP50 of 0.93 and mAP50-95 of 0.872.",
+      "technologies": [
+        "YOLO11",
+        "NVIDIA Jetson Nano"
+      ],
+      "domain": "Port Automation"
+    }
+  ],
+  "certifications": [
+    "Generative AI Engineering and Fine-Tuning Transformers - IBM (2025)",
+    "Project management - American Chamber of Commerce (2025)",
+    "Generative Adversarial Networks (GANs) specialization - Coursera (2024)",
+    "DeepLearning.AI TensorFlow Developer - Coursera (2024)",
+    "Natural Language Processing Specialization - Coursera (2024)",
+    "Huawei Certified ICT professional (HCIP) - AI EI developer (2024)",
+    "Deep Learning Specialization - Coursera (2023)",
+    "Machine Learning Specialization - Coursera (2023)",
+    "Huawei Certified ICT Associate (HCIA) - AI (2022)",
+    "Getting Started with Deep Learning - NVIDIA (2022)"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "summary": "Machine Learning & AI Engineer specializing in Generative AI, NLP, and AI automation. Proven track record in developing end-to-end solutions—from RAG-based agents and fine-tuned LLMs, to real-time computer vision systems deployed on edge hardware.",
+  "strengths": [
+    "Strong technical skills in AI, ML, and NLP",
+    "Experience in developing end-to-end solutions",
+    "Proven track record in delivering high-quality projects"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "ML Engineer",
+    "NLP Engineer",
+    "Data Scientist"
+  ]
+}

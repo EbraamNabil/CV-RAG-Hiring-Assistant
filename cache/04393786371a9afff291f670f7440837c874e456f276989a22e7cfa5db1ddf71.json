@@ -1,0 +1,117 @@
+{
+  "name": "Malak Abdelfattah Soula",
+  "email": "malaksola1606@gmail.com",
+  "phone": "(+20) 1551021696",
+  "linkedin": "linkedin.com/in/malakabdelfattah",
+  "github": "github.com/MalakSoula",
+  "location": "Sadat City, Egypt",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "Bachelor of computer science and artificial intelligence",
+    "university": "University of Sadat city",
+    "major": "Bioinformatics department"
+  },
+  "skills": [
+    "Python",
+    "SQL",
+    "R",
+    "TensorFlow",
+    "Scikit-learn",
+    "Pandas",
+    "NumPy",
+    "Seaborn",
+    "Matplotlib",
+    "Power BI",
+    "Tableau",
+    "Excel",
+    "Jupyter Notebook",
+    "Google Colab",
+    "VS Code",
+    "Git"
+  ],
+  "projects": [
+    {
+      "name": "Smart Meeting Assistant",
+      "description": "Built an end-to-end AI meeting analysis pipeline for audio/video, using speaker diarization and NLP to extract decisions, discussions, and action items.",
+      "technologies": [
+        "Python",
+        "NLP",
+        "OCR",
+        "Vision LLMs"
+      ],
+      "domain": "AI"
+    },
+    {
+      "name": "JobPulse– Hiring Trends Dashboard",
+      "description": "Analyzed 25K+ job posts from Wuzzuf using Power BI and Excel to find skill and hiring trends.",
+      "technologies": [
+        "Power BI",
+        "Excel"
+      ],
+      "domain": "Data Analysis"
+    },
+    {
+      "name": "Customer Segmentation Analysis",
+      "description": "Segmented 5,000+ customers into 4 distinct behavioral clusters using K-Means, improving targeting precision by 30%.",
+      "technologies": [
+        "K-Means",
+        "Python"
+      ],
+      "domain": "Data Science"
+    },
+    {
+      "name": "Genetic Age Prediction Model",
+      "description": "Predicted biological age from gene expression profiles using regression-based machine learning algorithms.",
+      "technologies": [
+        "Python",
+        "Machine Learning"
+      ],
+      "domain": "Bioinformatics"
+    },
+    {
+      "name": "Used Vehicle Data Insights",
+      "description": "Analyzed used car prices, mileage, and brand popularity using Python.",
+      "technologies": [
+        "Python"
+      ],
+      "domain": "Data Analysis"
+    },
+    {
+      "name": "Falcon Football Club Management System",
+      "description": "Created SQL-based system to manage team, news, and schedules.",
+      "technologies": [
+        "SQL"
+      ],
+      "domain": "Database Management"
+    },
+    {
+      "name": "FSP: Football Scene Predictor",
+      "description": "Built a real-time sports analytics system to support referees and coaches during live matches.",
+      "technologies": [
+        "Python",
+        "Computer Vision",
+        "Machine Learning"
+      ],
+      "domain": "Sports Analytics"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "summary": "AI and data science engineer with hands-on experience in machine learning, and data engineering workflows.",
+  "strengths": [
+    "Machine Learning",
+    "Data Analysis",
+    "Data Visualization",
+    "Python",
+    "SQL"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "Data Scientist",
+    "AI Engineer",
+    "Data Analyst"
+  ]
+}

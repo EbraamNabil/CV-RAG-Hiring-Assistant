@@ -1,0 +1,83 @@
+{
+  "name": "Mohamed Masry",
+  "email": "mohamedmasry0120@gmail.com",
+  "phone": "+201063596645",
+  "linkedin": "www.linkedin.com/in/mohamed-masry-648790249",
+  "github": "github.com/Masry5",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 0,
+  "education": {
+    "degree": "Bachelor of Computer Science",
+    "university": "Helwan University",
+    "major": "Artificial Intelligence"
+  },
+  "skills": [
+    "Python",
+    "C++",
+    "SQL",
+    "PyTorch",
+    "Hugging Face",
+    "Scikit-learn",
+    "Fast API",
+    "LangGraph",
+    "LangChain",
+    "Prompt Engineering",
+    "LLM Fine-tuning",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "Power BI",
+    "Leadership",
+    "Problem Solving",
+    "Communication",
+    "Collaboration",
+    "Critical Thinking"
+  ],
+  "projects": [
+    {
+      "name": "Automatic E-Commerce AI System",
+      "description": "Built an LLM-based chatbot to understand user intent and perform actions such as product search and order queries.",
+      "technologies": [
+        "LLM",
+        "PyTorch"
+      ],
+      "domain": "E-commerce"
+    },
+    {
+      "name": "ETS: EEG-to-Text",
+      "description": "Developed a hybrid CNN–Transformer model to decode 128-channel EEG and eye-tracking signals into natural language text.",
+      "technologies": [
+        "PyTorch",
+        "CNN",
+        "Transformer"
+      ],
+      "domain": "Neuroscience"
+    },
+    {
+      "name": "Histology Cell-Type Prediction",
+      "description": "Developed a ConvNeXt-based pipeline to classify cell-type abundance in H&E-stained histology slides.",
+      "technologies": [
+        "ConvNeXt",
+        "PyTorch"
+      ],
+      "domain": "Biomedical"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "summary": "AI Engineer with hands-on experience developing practical AI solutions across computer vision, natural language processing, and predictive modeling.",
+  "strengths": [
+    "Technical excellence",
+    "Adaptability",
+    "Leadership"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Data Scientist",
+    "Machine Learning Engineer"
+  ]
+}

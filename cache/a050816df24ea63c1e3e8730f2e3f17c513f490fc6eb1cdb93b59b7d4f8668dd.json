@@ -1,0 +1,92 @@
+{
+  "name": "Mariam Mohamed Elwakel",
+  "email": "mariamelwakel23@gmail.com",
+  "phone": "+20 112 579 5215",
+  "linkedin": "linkedin.com/in/mariam-elwakel-559945292",
+  "github": "github.com/MariamElwakel",
+  "location": "",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "Bachelor’s Degree",
+    "university": "Cairo University",
+    "major": "Artificial Intelligence"
+  },
+  "skills": [
+    "C++",
+    "Java",
+    "Python",
+    "JavaScript",
+    "SQL",
+    "HTML/CSS",
+    "Pandas",
+    "NumPy",
+    "scikit-learn",
+    "PyTorch",
+    "TensorFlow",
+    "Keras",
+    "Git",
+    "GitHub",
+    "Microsoft SQL Server",
+    "Jupyter Notebook",
+    "Google Colab",
+    "Data Structures and Algorithms",
+    "Databases",
+    "SOLID Principles",
+    "Design Patterns",
+    "Operating Systems",
+    "Computer Networks",
+    "Machine Learning",
+    "Image Processing",
+    "Natural Language Processing (NLP)",
+    "Reinforcement Learning"
+  ],
+  "projects": [
+    {
+      "name": "AI Interviewer & ATS Screening System",
+      "description": "Built an AI-powered Applicant Tracking System (ATS) to evaluate CVs against job descriptions and score candidates based on matched skills and missing requirements.",
+      "technologies": [
+        "Computer Vision",
+        "LLM",
+        "LangChain",
+        "LangGraph"
+      ],
+      "domain": "HR"
+    },
+    {
+      "name": "AI Chatbot for Medical Diagnosis",
+      "description": "Contributed to the design and development of an AI medical chatbot by fine-tuning a large language model on a real medical dataset.",
+      "technologies": [
+        "NLP",
+        "Large Language Model"
+      ],
+      "domain": "Healthcare"
+    },
+    {
+      "name": "Tetris AI Game with Genetic Algorithm",
+      "description": "Implemented an AI agent using a genetic algorithm to play Tetris.",
+      "technologies": [
+        "Genetic Algorithm"
+      ],
+      "domain": "Gaming"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "summary": "AI Engineer with hands-on experience designing, training, and deploying machine learning, computer vision, and NLP solutions.",
+  "strengths": [
+    "Communication skills",
+    "Adaptability",
+    "Collaboration",
+    "Teamwork"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Computer Vision Engineer",
+    "NLP Engineer"
+  ]
+}

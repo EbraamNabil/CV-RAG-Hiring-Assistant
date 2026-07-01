@@ -1,0 +1,112 @@
+{
+  "name": "Jamal Ghobrial",
+  "email": "ghobrialjamal@gmail.com",
+  "phone": "+201501705943",
+  "linkedin": "linkedin.com/in/jamal-ghobrial",
+  "github": "",
+  "location": "EG",
+  "years_of_experience": 2,
+  "education": {
+    "degree": "BSc in Bioinformatics",
+    "university": "Assiut University",
+    "major": "Bioinformatics"
+  },
+  "skills": [
+    "Python",
+    "GO",
+    "C++",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Modeling",
+    "Feature Engineering",
+    "Data Preprocessing",
+    "Model Evaluation",
+    "Hyperparameter Tuning",
+    "ML Pipeline",
+    "Transformers",
+    "Encoder-Decoder",
+    "Decoder-Only",
+    "Attention Mechanisms",
+    "Tokenization",
+    "Prompt Engineering",
+    "Retrieval Augmented Generation",
+    "Vector Databases",
+    "LangChain",
+    "Semantic Search",
+    "Hugging Face Transformers",
+    "SentenceTransformers",
+    "PyTorch",
+    "OpenAI API",
+    "Neural Network Architectures",
+    "Deep Learning Frameworks",
+    "AWS Sagemaker",
+    "Image Processing",
+    "Data Visualization",
+    "ETL Processes",
+    "SQL",
+    "Statistics",
+    "Data Storytelling"
+  ],
+  "projects": [
+    {
+      "name": "Digitopia Assistant Judge",
+      "description": "Developed an AI-powered decision support system to streamline hackathon adjudication",
+      "technologies": [
+        "Python",
+        "Machine Learning"
+      ],
+      "domain": "AI"
+    },
+    {
+      "name": "Applied Data Science Projects",
+      "description": "Completed 5+ projects in the Applied Data Science Lab at WorldQuant University",
+      "technologies": [
+        "Python",
+        "Data Science"
+      ],
+      "domain": "Data Science"
+    },
+    {
+      "name": "Investigating Movie",
+      "description": "Analyzed 4,500+ TMDb movies, focusing on user ratings and revenue",
+      "technologies": [
+        "Python",
+        "Data Analysis"
+      ],
+      "domain": "Data Analysis"
+    },
+    {
+      "name": "US Bike Share Analysis",
+      "description": "Data analysis on bike share systems for Chicago, New York, and Washington using Python",
+      "technologies": [
+        "Python",
+        "Data Analysis"
+      ],
+      "domain": "Data Analysis"
+    }
+  ],
+  "certifications": [
+    "Getting Started with Deep Learning",
+    "Applied Data Science",
+    "Data Analysis Professional Nanodegree",
+    "AI and Machine Learning"
+  ],
+  "languages": [],
+  "summary": "Results-oriented AI Engineer with extensive hands-on experience in developing and deploying advanced Machine Learning and Deep Learning models.",
+  "strengths": [
+    "Problem-Solving",
+    "Analytical Skills",
+    "Continuous Learning",
+    "Initiative",
+    "Results-Oriented",
+    "Self-Management",
+    "Self-Motivation",
+    "Adaptability"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Data Scientist"
+  ]
+}

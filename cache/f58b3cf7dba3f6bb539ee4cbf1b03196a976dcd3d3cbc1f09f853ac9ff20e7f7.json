@@ -1,0 +1,109 @@
+{
+  "name": "Khaled Mohamed Wahdan",
+  "email": "devkhaled.ai@gmail.com",
+  "phone": "+20 122 711 7525, +966 543 898 905",
+  "linkedin": "linkedin.com/in/khaled-mohamed-753855284",
+  "github": "",
+  "location": "Egypt",
+  "years_of_experience": 2,
+  "education": {
+    "degree": "B.Sc.",
+    "university": "Alexandria University",
+    "major": "Software Industry and Multimedia"
+  },
+  "skills": [
+    "Python",
+    "Node.js",
+    "Go",
+    "JavaScript",
+    "Java",
+    "C++",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Seaborn",
+    "MATLAB",
+    "TensorFlow",
+    "PyTorch",
+    "LLM Integration & Deployment",
+    "Hugging Face Transformers",
+    "LangChain",
+    "Gradio",
+    "RAG",
+    "Fine-tuning LLMs",
+    "gRPC",
+    "Fast APIs",
+    "Docker",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Power BI",
+    "Tableau"
+  ],
+  "projects": [
+    {
+      "name": "AI Competition Judgment Panel",
+      "description": "Architected an automated AI evaluation system using LangChain and local LLMs to analyze and score competition submissions based on complex judging criteria.",
+      "technologies": [
+        "LangChain",
+        "Local LLMs (Ollama)",
+        "LangGraph",
+        "RAG",
+        "Python"
+      ],
+      "domain": "AI"
+    },
+    {
+      "name": "Autonomous Agentic AI Framework – “The Price Is Right”",
+      "description": "Designed and implemented an autonomous agentic AI framework that continuously monitors online deal sources via RSS feeds.",
+      "technologies": [
+        "RSS feeds",
+        "Multi-agent system",
+        "Fine-tuned and frontier LLMs",
+        "Retrieval-Augmented Generation (RAG)"
+      ],
+      "domain": "AI"
+    },
+    {
+      "name": "Dwa2y — Mobile Donation Platform for Medicines and Medical Equipment",
+      "description": "Developed a cross-platform mobile application that enables users to donate or request unused medicines and medical equipment.",
+      "technologies": [
+        "Node.js",
+        "Flutter",
+        "MongoDB (Mongoose)"
+      ],
+      "domain": "Healthcare"
+    }
+  ],
+  "certifications": [
+    "Huawei Certified Cloud Developer (HCCDA)",
+    "Huawei Certified ICT Associate (HCIA)",
+    "Getting Started with Deep Learning — NVIDIA",
+    "Introduction to Transformer-Based Natural Language Processing — NVIDIA",
+    "Master Machine Learning and AI Diploma — AMIT Learning",
+    "Complete Data Science Bootcamp — 365 Data Science",
+    "Python Programming I & II — New Horizons"
+  ],
+  "languages": [
+    "Arabic (Native)",
+    "English (Intermediate)"
+  ],
+  "summary": "NLP Engineer with strong expertise in Generative AI, large language models, and modern NLP techniques. Experienced in building intelligent systems, developing and deploying NLP/ML models.",
+  "strengths": [
+    "Strong problem-solving and analytical thinking",
+    "Excellent teamwork and collaboration abilities",
+    "Effective communication and presentation skills",
+    "Adaptability and continuous learning mindset",
+    "Proactive and self-motivated approach to work",
+    "Time management and attention to detail",
+    "Leadership and project ownership"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "NLP Engineer",
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Data Scientist"
+  ]
+}

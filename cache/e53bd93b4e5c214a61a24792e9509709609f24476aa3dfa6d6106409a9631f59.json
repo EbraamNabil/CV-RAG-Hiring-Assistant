@@ -1,0 +1,92 @@
+{
+  "name": "Nada Emad Mahmoud",
+  "email": "nadaemad1106@gmail.com",
+  "phone": "01149383621",
+  "linkedin": "https://linkedin.com/in/nada11/",
+  "github": "https://github.com/nadaemad1106",
+  "location": "",
+  "years_of_experience": 0,
+  "education": {
+    "degree": "Bachelor of Computer Science",
+    "university": "Ain Shams University",
+    "major": "Computer Science"
+  },
+  "skills": [
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "Computer Vision",
+    "OOP",
+    "Data Structures & Algorithms",
+    "Python",
+    "C++",
+    "C#",
+    "Java",
+    "SQL",
+    "TensorFlow",
+    "Scikit-learn",
+    "Pandas",
+    "NumPy",
+    "Oracle",
+    "SQL Server",
+    "Power BI",
+    "Public Speaking",
+    "Teamwork",
+    "Communication Skills",
+    "Problem Solving"
+  ],
+  "projects": [
+    {
+      "name": "AI-Based Tourist Assistant",
+      "description": "Expanded an end-to-end AI-powered tourist assistant that extracts Arabic text from images using OCR, performs contextual Arabic-to-English translation with LLMs, detects landmarks and prices, and generates tourist recommendations.",
+      "technologies": [
+        "OCR",
+        "LLMs",
+        "FastAPI"
+      ],
+      "domain": "Tourism"
+    },
+    {
+      "name": "AI vs Human Text Detection",
+      "description": "Developed a system to classify Arabic text as AI-generated or human-written using NLP and machine learning.",
+      "technologies": [
+        "NLP",
+        "Machine Learning",
+        "Angular",
+        "FastAPI",
+        "MongoDB"
+      ],
+      "domain": "NLP"
+    },
+    {
+      "name": "Sentiment Analysis of Movie Reviews",
+      "description": "Conducted sentiment analysis on movie reviews using machine learning techniques by classifying text as positive or negative.",
+      "technologies": [
+        "Machine Learning",
+        "TF-IDF vectorization",
+        "Tokenization",
+        "Stemming",
+        "Stopword removal"
+      ],
+      "domain": "Movie Reviews"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "summary": "Motivated and dedicated Computer Science graduate seeking an opportunity to contribute to a dynamic and growth-oriented organization.",
+  "strengths": [
+    "Strong technical skills",
+    "Problem-solving abilities",
+    "Solid academic background"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "NLP Engineer",
+    "Data Scientist"
+  ]
+}

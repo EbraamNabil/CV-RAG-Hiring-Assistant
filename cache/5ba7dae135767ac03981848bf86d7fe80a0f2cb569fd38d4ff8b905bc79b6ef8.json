@@ -1,0 +1,137 @@
+{
+  "name": "Marina Safwat Abdeltawab Gabriel",
+  "email": "marina.safwat2002@gmail.com",
+  "phone": "+201289911452",
+  "linkedin": "linkedin.com/in/marina-safwat-3b186b246/",
+  "github": "github.com/WA-on-test2",
+  "location": "Cairo, Egypt",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "Bachelor of Computer Science",
+    "university": "October 6 University",
+    "major": "Artificial Intelligence"
+  },
+  "skills": [
+    "Python",
+    "C++",
+    "C#",
+    "Java",
+    "Data Modeling",
+    "Data Visualization",
+    "Data warehouse",
+    "Big Data",
+    "NumPy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "TensorFlow",
+    "Keras",
+    "PyTorch",
+    "MLflow",
+    "SQL",
+    "SQL Server",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "PySpark",
+    "Apache Airflow",
+    "Power BI",
+    "Tableau",
+    "Google Looker",
+    "Docker",
+    "Linux",
+    "Git",
+    "Flask",
+    "FastAPI",
+    "Microsoft Azure",
+    "HTML",
+    "CSS",
+    "Teamwork",
+    "Leadership",
+    "Communication",
+    "Problem Solving",
+    "Adaptability",
+    "Critical Thinking"
+  ],
+  "projects": [
+    {
+      "name": "Smart Players Monitoring System",
+      "description": "Engineered a real-time monitoring system using wearable electrocardiogram and motion sensors to capture structured health data during matches.",
+      "technologies": [
+        "Python",
+        "ML models"
+      ],
+      "domain": "Sports"
+    },
+    {
+      "name": "Sales Data Analysis & Engineering",
+      "description": "Developed a Python-based ETL pipeline to extract, clean, and load multi-source data into SQL Server.",
+      "technologies": [
+        "Python",
+        "SQL Server"
+      ],
+      "domain": "Sales"
+    },
+    {
+      "name": "Dialogue Summarization Application (NLP)",
+      "description": "Designed an end-to-end abstractive summarization pipeline and benchmarked GPT-2, T5, Pegasus, and BART on dialogue datasets.",
+      "technologies": [
+        "GPT-2",
+        "T5",
+        "Pegasus",
+        "BART"
+      ],
+      "domain": "NLP"
+    },
+    {
+      "name": "Energy Consumption Optimization",
+      "description": "Analyzed regional energy consumption datasets to reveal inefficiencies and usage patterns.",
+      "technologies": [
+        "Forecasting",
+        "Statistical modeling"
+      ],
+      "domain": "Energy"
+    },
+    {
+      "name": "3D MRI Brain Tumor Segmentation",
+      "description": "Built and trained a 3D-UNet model on MRI scans (4,000+ images) for volumetric tumor segmentation.",
+      "technologies": [
+        "3D-UNet",
+        "MRI scans"
+      ],
+      "domain": "Healthcare"
+    },
+    {
+      "name": "Climate Change Impact — Flight Emissions",
+      "description": "Evaluated historical flight emission data and designed regression models to forecast long-term global environmental impact.",
+      "technologies": [
+        "Regression models"
+      ],
+      "domain": "Environmental Science"
+    }
+  ],
+  "certifications": [
+    "HCIA — Big Data (Huawei)",
+    "HCIA — Cloud (Huawei)",
+    "HCIA — AI (Huawei)",
+    "HCIA — Datacom (Huawei)",
+    "Microsoft Machine Learning Engineer"
+  ],
+  "languages": [
+    "Arabic (Native)",
+    "English (Upper-Intermediate)"
+  ],
+  "summary": "An Artificial Intelligence Engineer with hands-on experience in end-to-end machine learning pipelines, computer vision, natural language processing, and cloud integration.",
+  "strengths": [
+    "Strong Python, data science, and software engineering skills",
+    "Experience with machine learning pipelines and cloud integration",
+    "Passionate about applying AI to drive automation and real-world business impact"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "Artificial Intelligence Engineer",
+    "Machine Learning Engineer",
+    "Data Scientist",
+    "Cloud Integration Specialist"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Merna Hany Mahmoud",
+  "email": "mernahany00@gmail.com",
+  "phone": "+20 1068074159",
+  "linkedin": "https://www.linkedin.com/in/mernahanylin/",
+  "github": "https://github.com/mernaahany",
+  "location": "",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "Bachelor of Science",
+    "university": "Fayoum University",
+    "major": "Mechatronics Engineering"
+  },
+  "skills": [
+    "Leadership",
+    "Team Collaboration",
+    "Communication",
+    "Problem-Solving",
+    "Time Management",
+    "Presentation",
+    "Strategic Planning",
+    "Project Coordination",
+    "Reporting & Documentation",
+    "TensorFlow",
+    "Scikit-learn",
+    "PyTorch",
+    "OpenCV",
+    "Flask/FastAPI",
+    "Hugging Face",
+    "YOLO",
+    "Power BI",
+    "Agents",
+    "Regression & Classification",
+    "SVM",
+    "Decision Trees",
+    "Random Forest",
+    "Boosting",
+    "Hyperparameter Tuning",
+    "Neural Networks",
+    "CNNs",
+    "Transfer Learning",
+    "RNNs",
+    "LSTMs",
+    "Transformers",
+    "Image Classification",
+    "Object Detection",
+    "Image Segmentation",
+    "Text Preprocessing",
+    "Word Embeddings",
+    "Sentiment Analysis",
+    "Question Answering",
+    "RAG",
+    "LangChain",
+    "Data Cleaning",
+    "Feature Engineering",
+    "Web Scraping",
+    "SQL & NoSQL"
+  ],
+  "projects": [
+    {
+      "name": "Smart Meeting Assistant",
+      "description": "Built an end-to-end AI pipeline for meeting video/audio analysis using speaker diarization, Vision LLMs, and OCR to generate accurate transcripts and automated attendance tracking.",
+      "technologies": [
+        "Speaker Diarization",
+        "Vision LLMs",
+        "OCR"
+      ],
+      "domain": "AI"
+    },
+    {
+      "name": "Gloves Teleoperation Robot",
+      "description": "Developed a real-time robotic teleoperation system using AI and computer vision to control a robot remotely through hand gestures.",
+      "technologies": [
+        "AI",
+        "Computer Vision"
+      ],
+      "domain": "Robotics"
+    },
+    {
+      "name": "Personalized AI Chatbot",
+      "description": "Developed a Retrieval-Augmented Generation chatbot using FastAPI, FAISS, MongoDB, and transformer models to deliver personalized, context-aware responses with scalable deployment.",
+      "technologies": [
+        "FastAPI",
+        "FAISS",
+        "MongoDB",
+        "Transformer Models"
+      ],
+      "domain": "NLP"
+    },
+    {
+      "name": "Facial Recognition Systems",
+      "description": "Implemented emotion-based facial recognition using OpenCV and transfer learning (CNNs), reaching 90% accuracy on test datasets.",
+      "technologies": [
+        "OpenCV",
+        "Transfer Learning",
+        "CNNs"
+      ],
+      "domain": "Computer Vision"
+    },
+    {
+      "name": "Smart Home & Access Control Systems",
+      "description": "Engineered IoT-based smart home and security systems with RFID and fingerprint authentication, ensuring real-time monitoring and secure automation.",
+      "technologies": [
+        "IoT",
+        "RFID",
+        "Fingerprint Authentication"
+      ],
+      "domain": "IoT"
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "summary": "AI Engineer with practical experience in Machine Learning, NLP, and Generative AI. Dedicated to building intelligent, data-driven systems that enhance efficiency and deliver measurable results.",
+  "strengths": [
+    "Leadership",
+    "Team Collaboration",
+    "Communication",
+    "Problem-Solving",
+    "Time Management"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "NLP Engineer",
+    "Data Scientist"
+  ]
+}

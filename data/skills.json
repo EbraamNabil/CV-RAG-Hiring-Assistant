@@ -1,0 +1,75 @@
+{
+    "Python": [
+        "python",
+        "python3"
+    ],
+
+    "LangChain": [
+        "langchain"
+    ],
+
+    "LangGraph": [
+        "langgraph"
+    ],
+
+    "RAG": [
+        "rag",
+        "retrieval augmented generation"
+    ],
+
+    "FastAPI": [
+        "fastapi",
+        "fast api"
+    ],
+
+    "Docker": [
+        "docker"
+    ],
+
+    "Git": [
+        "git",
+        "github"
+    ],
+
+    "SQL": [
+        "sql",
+        "mysql",
+        "postgresql"
+    ],
+
+    "Machine Learning": [
+        "machine learning",
+        "ml"
+    ],
+
+    "Deep Learning": [
+        "deep learning",
+        "dl"
+    ],
+
+    "PyTorch": [
+        "torch",
+        "pytorch",
+        "py torch"
+    ],
+
+    "TensorFlow": [
+        "tensorflow",
+        "tf"
+    ],
+
+    "OpenAI": [
+        "openai",
+        "gpt"
+    ],
+
+    "AWS": [
+        "aws",
+        "amazon web services"
+    ],
+
+    "Azure": [
+        "azure",
+        "microsoft azure"
+    ]
+}

@@ -1,0 +1,138 @@
+{
+  "name": "Mohamed Saeed",
+  "email": "mohamedakrab66@gmail.com",
+  "phone": "+201154749482",
+  "linkedin": "https://www.linkedin.com/in/mohamed-saeed-7b748b2a6/",
+  "github": "https://github.com/MohamedSaeed66",
+  "location": "",
+  "years_of_experience": 1,
+  "education": {
+    "degree": "Bachelor's Degree",
+    "university": "October 6 University",
+    "major": "Computer Science"
+  },
+  "skills": [
+    "Python",
+    "C++",
+    "SQL",
+    "MySQL",
+    "Java",
+    "HTML",
+    "CSS",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "scikit-learn",
+    "TensorFlow",
+    "Pytorch",
+    "Keras",
+    "NLTK",
+    "SpaCy",
+    "Large Language Models (LLMs)",
+    "Prompt Engineering",
+    "Retrieval-Augmented Generation (RAG)",
+    "NLP",
+    "Rule-based + AI Hybrid Systems",
+    "Microsoft Azure",
+    "Docker",
+    "AI Agents Architecture",
+    "Fast API",
+    "Pydantic",
+    "LangChain",
+    "Vector Databases",
+    "Structured JSON APIs",
+    "Jupyter",
+    "Google Colab",
+    "VS Code",
+    "Power BI",
+    "Tableau",
+    "Excel",
+    "EDA",
+    "Predictive Analytics"
+  ],
+  "projects": [
+    {
+      "name": "AI Interviewer Platform – Intelligent Recruitment System",
+      "description": "Designed and implemented an automated ATS system for CV parsing and candidate screening",
+      "technologies": [
+        "Python",
+        "NLP",
+        "Machine Learning"
+      ],
+      "domain": "HR"
+    },
+    {
+      "name": "Fraud Detection System Using Transaction Text Analysis",
+      "description": "Built an AI system to detect fraudulent transactions using NLP-based analysis of transaction descriptions",
+      "technologies": [
+        "Python",
+        "NLP",
+        "Machine Learning",
+        "Scikit-learn"
+      ],
+      "domain": "Finance"
+    },
+    {
+      "name": "Telecom Customer Churn Prediction and Analysis System",
+      "description": "Developed a predictive model to identify high-risk telecom customers and support retention strategies",
+      "technologies": [
+        "Python",
+        "Machine Learning",
+        "Pandas",
+        "NumPy"
+      ],
+      "domain": "Telecom"
+    },
+    {
+      "name": "Intelligent Customer Feedback Sentiment Analysis System",
+      "description": "Designed an NLP-based system to analyze and classify customer feedback sentiment",
+      "technologies": [
+        "Python",
+        "NLP",
+        "Deep Learning",
+        "LSTM",
+        "TensorFlow"
+      ],
+      "domain": "Customer Service"
+    }
+  ],
+  "certifications": [
+    "Huawei Certified HCCDA Program – Cloud",
+    "Nvidia – Introduction to Deep Learning",
+    "AI Course (80 hrs) - National Telecommunication Institute",
+    "Microsoft Power BI Engineer - Digital Egypt Pioneers",
+    "AI Diploma (170 hrs) - Instant Software Solutions",
+    "Huawei Certified ICT Associate (HCIA) – Artificial Intelligence",
+    "Huawei Certified ICT Associate (HCIA) – Big Data",
+    "Huawei Certified ICT Associate (HCIA) – Cloud Computing",
+    "ALX AICE - AI Career Essentials Certificate",
+    "Web Development Challenger Track – Udacity"
+  ],
+  "languages": [
+    "Arabic",
+    "English"
+  ],
+  "summary": "Junior AI Engineer with strong foundations in Python, Machine Learning, NLP, and Computer Vision",
+  "strengths": [
+    "Effective Communication",
+    "Critical Thinking",
+    "Problem-Solving",
+    "Attention to Detail",
+    "Time Management",
+    "Collaboration",
+    "Teamwork",
+    "Adaptability",
+    "Presentation Skills",
+    "Documentation",
+    "Project Management",
+    "Stakeholder Engagement"
+  ],
+  "weaknesses": [],
+  "recommended_roles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "NLP Engineer",
+    "Data Scientist",
+    "Business Intelligence Developer"
+  ]
+}
